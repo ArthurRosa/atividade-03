@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Campeonato 1",
+      "descricao": "Dispute contra seus adversários para ganhar prêmios exclusivos!",
+      "foto": "cardnews.jpg",
+      "preco": 50
+    },
+    {
+      "id": 2,
+      "produto": "Campeonato 2",
+      "descricao": "Dispute contra seus adversários para ganhar prêmios exclusivos!",
+      "foto": "cardnews.jpg",
+      "preco": 50
+    },
+    {
+      "id": 3,
+      "produto": "Campeonato 3",
+      "descricao": "Dispute contra seus adversários para ganhar prêmios exclusivos!",
+      "foto": "cardnews.jpg",
+      "preco": 50
+    },
+    {
+      "id": 4,
+      "produto": "Campeonato 4",
+      "descricao": "Dispute contra seus adversários para ganhar prêmios exclusivos!",
+      "foto": "cardnews.jpg",
+      "preco": 50
+    }
+  ]
+}
